@@ -1,10 +1,10 @@
-# Apex Tab — F1 Wallpapers (Unofficial)
+# Apex Tab - F1 Wallpapers (Unofficial)
 
 ## Privacy Policy
 
 *Last Updated: November 9th, 2025*
 
-Apex Tab — F1 Wallpapers (Unofficial) is designed with a simple principle: **your data belongs to you**. This extension does not collect, store, transmit, or sell any personal information. All functionality runs locally within your browser.
+Apex Tab - F1 Wallpapers (Unofficial) is designed with a simple principle: **your data belongs to you**. This extension does not collect, store, transmit, or sell any personal information. All functionality runs locally within your browser.
 
 ---
 
@@ -102,4 +102,4 @@ If you have questions or requests, you may reach out via the Chrome Web Store su
 
 ---
 
-**Apex Tab — Built for speed, simplicity, and privacy.**
+**Apex Tab - Built for speed, simplicity, and privacy.**
