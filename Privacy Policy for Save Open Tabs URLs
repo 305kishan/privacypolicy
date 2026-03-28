@@ -1,0 +1,58 @@
+# Privacy Policy — Save Open Tabs URLs
+
+*Last updated: March 2026*
+
+**Save Open Tabs URLs** ("the Extension") is a browser extension for Google Chrome. This policy describes what data the Extension accesses, how it is used, and what it does not do.
+
+---
+
+## Data Collected
+
+The Extension does not collect, store, transmit, or share any personal data. No analytics, crash reporting, or telemetry of any kind is included.
+
+---
+
+## Data Accessed
+
+When you open the Extension popup, it reads the **URL and page title** of tabs open in your current browser window using the Chrome `tabs` API. This data:
+
+- Is displayed only within the popup UI
+- Is never sent to any server or third party
+- Is never written to local storage, cookies, or any persistent store
+- Exists in memory only for the duration the popup is open
+
+---
+
+## Clipboard
+
+If you click **Copy All**, the URL list is written to your system clipboard using the browser's native Clipboard API. This action is always user-initiated.
+
+---
+
+## Downloads
+
+If you click **CSV**, a file is generated in-memory and saved to your local device via the Chrome `downloads` API. The file never passes through any external server.
+
+---
+
+## Third-Party Services
+
+The Extension loads the **Roboto Mono** font from Google Fonts via a stylesheet import declared in the Content Security Policy. No user data is included in this request. If you prefer no external requests, you can install the font locally and modify the CSP accordingly.
+
+---
+
+## Children's Privacy
+
+The Extension does not target or knowingly collect data from children under 13.
+
+---
+
+## Changes to This Policy
+
+If this policy changes, the updated version will be published here with a revised date.
+
+---
+
+## Contact
+
+For questions, contact the developer directly through the Chrome Web Store listing page.
